@@ -1,1 +1,3 @@
-# unidownloadik
+# Подготовка к установке:
+## 1. Установка зависимостей.
+sudo apt install ffmpeg
